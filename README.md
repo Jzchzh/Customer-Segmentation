@@ -2,6 +2,6 @@ customer-segmentation-project/
 │     
 ├── customer_segmentation.ipynb       
 ├── data/     
-│   └── customer_data.csv            
+│   └── cust_seg_data.xlsx            
 ├── images/    
 ├── README.md               
