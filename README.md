@@ -4,4 +4,5 @@ customer-segmentation-project/
 ├── data/     
 │   └── cust_seg_data.xlsx            
 ├── images/    
+│   └── dataschema.JPG   
 ├── README.md               
